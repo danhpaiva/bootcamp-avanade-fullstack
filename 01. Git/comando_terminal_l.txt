@@ -1,0 +1,19 @@
+Comando's Terminal Linux
+Listar diretório:
+ls
+
+Navegar entre diretório's:
+cd
+cd ..
+
+base
+cd /
+
+Limpar tela:
+clear
+
+Criar diretório:
+mkdir novapasta
+
+Deletar diretorio:
+rm -rf novapasta/

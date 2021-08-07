@@ -1,0 +1,33 @@
+Comando's Terminal Windows
+
+Listar diretório:
+dir
+
+Navegar entre diretório's:
+cd
+cd ..
+
+base
+cd /
+
+Limpar tela:
+cls
+
+Criar diretório:
+mkdir novapasta
+
+Imprimir mensagem no terminal:
+
+echo hello
+
+mandar a saída para um arquivo:
+
+echo hello > hello.txt
+
+deletar arquivos:
+
+del novapasta
+
+deletar repo:
+
+rmdir workspace /s /q
